@@ -175,6 +175,7 @@ data
     url = "https://aclanthology.org/2024.nlp4dh-1.33/",
     doi = "10.18653/v1/2024.nlp4dh-1.33",
     pages = "331--338",
+}
 ~~~~
 
 ~~~~
@@ -184,4 +185,5 @@ data
     booktitle = "言語処理学会第31回年次大会発表論文集",
     month = mar,
     year = "2025",
+}
 ~~~~
