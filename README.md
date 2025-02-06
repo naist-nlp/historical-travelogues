@@ -1,4 +1,4 @@
-# JHistTravel: Japanese Historical Travelogue Annotation Dataset (Version 1.0)
+# JHistTravel: Japanese Historical Travelogues Annotation Dataset (Version 1.0)
 
 ## Overview
 
@@ -172,6 +172,7 @@ If you publish research using this data, please cite one of the following:
     url = "https://aclanthology.org/2024.nlp4dh-1.33/",
     doi = "10.18653/v1/2024.nlp4dh-1.33",
     pages = "331--338",
+}
 ~~~~
 
 ~~~~
@@ -181,4 +182,5 @@ If you publish research using this data, please cite one of the following:
     booktitle = "Proceedings of the 31st Annual Meeting of the Association for Natural Language Processing",
     month = mar,
     year = "2025",
+}
 ~~~~
